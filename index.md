@@ -1,6 +1,6 @@
 ## SQLiteClient Plugin 
 
-This is a plugin to manage simple SQLite database.  
+This is a cool plugin to manage simple SQLite database.  
 
 ## Database path macroses
 
