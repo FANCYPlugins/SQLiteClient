@@ -24,5 +24,3 @@ Example: {UserDir}/mydb.db
 - UpdateSQLiteData
 - SelectSQLiteData
 - DeleteSQLiteData
-
-You cat see example of usage plugin in this video ...
